@@ -1,5 +1,5 @@
 import java.util.List;
-class CountItemMatchingARule {
+public class CountItemMatchingARule {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) 
     {
         int ans=0;int index=0;
