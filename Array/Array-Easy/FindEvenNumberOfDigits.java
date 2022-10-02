@@ -1,3 +1,9 @@
+/*
+ * NameOfTheQuestion: Find Even Number of Digits
+ * Link: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+ * Topic : Array
+ * AuthorOfTheSolution: @Rudy45KC
+ */
 class FindEvenNumberOfDigits{
     public int findNumbers(int[] nums) {
         int count = 0, totalEvenNumbers = 0;
