@@ -1,5 +1,5 @@
 //optimized solution
-class Solution {
+class RemoveDuplicatesFromSortedArr{
     public int removeDuplicates(int[] nums) {
         int count=1;
         for(int i=1;i<nums.length;i++){
