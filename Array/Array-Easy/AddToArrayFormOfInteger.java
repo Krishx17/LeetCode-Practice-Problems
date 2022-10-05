@@ -1,3 +1,11 @@
+/*
+ * NameOfTheQuestion : Add to array form of Integer
+ * Platform : LeetCode 
+ * Link: https://leetcode.com/problems/add-to-array-form-of-integer/
+ * Topic : Array , LinkedList 
+ * AuthorOfTheSolution : KrishneshChaurasia @github/Rudy45kc
+ */
+
 import java.util.*;
 class  AddToArrayFormOfInteger{
     public List<Integer> addToArrayForm(int[] num, int k) {
